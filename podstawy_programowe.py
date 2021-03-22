@@ -10,6 +10,7 @@ from os import startfile
 # III. 1. 1) 3) 4)
 def getLines():
     lines = []
+    print('Wklej indeksy rozdzialow tutaj: ')
     while True:
         line = input()
         if(line):
