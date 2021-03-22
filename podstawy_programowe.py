@@ -1,8 +1,12 @@
 from docx import Document
 from json import load
 from docx.shared import Pt
-from os import startfile
 from sys import platform
+try:
+    from os import startfile
+except ImportError as e:
+    pass
+
 
 # get the input
 ## Sample input:
