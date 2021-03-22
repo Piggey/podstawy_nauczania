@@ -1,0 +1,593 @@
+{
+    "I.": {
+        "nazwa": "Edukacja polonistyczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie słuchania. Uczeń:",
+            "1)": "słucha z uwagą wypowiedzi nauczyciela, innych osób z otoczenia, w różnych sytuacjach życiowych, wymagających komunikacji i wzajemnego zrozumienia; okazuje szacunek wypowiadającej się osobie;",
+            "2)": "wykonuje zadanie według usłyszanej instrukcji; zadaje pytania w sytuacji braku rozumienia lub braku pewności zrozumienia słuchanej wypowiedzi;",
+            "3)": "słucha z uwagą lektur i innych tekstów czytanych przez nauczyciela, uczniów i inne osoby;",
+            "4)": "słucha uważnie wypowiedzi osób podczas uroczystości, koncertów, przedstawień, świąt narodowych i innych zdarzeń kulturalnych; przejawia zachowanie adekwatne do sytuacji; słucha tekstów interpretowanych artystycznie, szuka własnych wzorców poprawnej artykulacji i interpretacji słownej w języku ojczystym;",
+            "5)": "słucha i czeka na swoją kolej, panuje nad chęcią nagłego wypowiadania się, szczególnie w momencie wskazywania tej potrzeby przez drugą osobę."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie mówienia. Uczeń:",
+            "1)": "wypowiada się płynnie, wyraziście, stosując adekwatne do sytuacji techniki języka mówionego: pauzy, zmianę intonacji, tempa i siły głosu;",
+            "2)": "formułuje pytania dotyczące sytuacji zadaniowych, wypowiedzi ustnych nauczyciela, uczniów lub innych osób z otoczenia;",
+            "3)": "wypowiada się w formie uporządkowanej i rozwiniętej na tematy związane z przeżyciami, zadaniem, sytuacjami szkolnymi, lekturą czy wydarzeniem kulturalnym;",
+            "4)": "porządkuje swoją wypowiedź, poprawia w niej błędy, omawia treść przeczytanych tekstów i ilustracji; nadaje znaczenie i tytuł obrazom, a także fragmentom tekstów;",
+            "5)": "układa w formie ustnej opowiadanie oraz składa ustne sprawozdanie z wykonanej pracy;",
+            "6)": "recytuje wiersze oraz wygłasza z pamięci krótkie teksty prozatorskie;",
+            "7)": "dobiera stosowną formę komunikacji werbalnej i własnego zachowania, wyrażającą empatię i szacunek do rozmówcy;",
+            "8)": "wykonuje eksperymenty językowe, nadaje znaczenie czynnościom i doświadczeniom, tworząc charakterystyczne dla siebie formy wypowiedzi."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie czytania. Uczeń:",
+            "1)": "czyta płynnie, poprawnie i wyraziście na głos teksty zbudowane z wyrazów opracowanych w toku zajęć, dotyczące rzeczywistych doświadczeń dzieci i ich oczekiwań poznawczych;",
+            "2)": "czyta w skupieniu po cichu teksty zapisane samodzielnie w zeszycie oraz teksty drukowane;",
+            "3)": "wyodrębnia postacie i zdarzenia w utworach literackich, ustala kolejność zdarzeń, ich wzajemną zależność, odróżnia zdarzenia istotne od mniej istotnych, postacie główne i drugorzędne; wskazuje cechy i ocenia bohaterów, uzasadnia swą ocenę, wskazuje wydarzenie zmieniające postępowanie bohatera, określa nastrój w utworze; odróżnia elementy świata fikcji od realnej rzeczywistości; byty rzeczywiste od medialnych, byty realistyczne od fikcyjnych;",
+            "4)": "wyszukuje w tekstach fragmenty według niego najpiękniejsze, najważniejsze, trudne do zrozumienia lub określone przez nauczyciela;",
+            "5)": "eksperymentuje, przekształca tekst, układa opowiadania twórcze, np. dalsze losy bohatera, komponuje początek i zakończenie tekstu na podstawie ilustracji lub przeczytanego fragmentu utworu;",
+            "6)": "wyróżnia w czytanych utworach literackich dialog, opowiadanie, opis;",
+            "7)": "czyta samodzielnie wybrane książki."
+        },
+        "4.": {
+            "nazwa": "Osiągnięcia w zakresie pisania. Uczeń:",
+            "1)": "pisze odręcznie, czytelnie, płynnie, zdania i tekst ciągły, w jednej linii; rozmieszcza właściwie tekst ciągły na stronie zeszytu, sprawdza i poprawia napisany tekst;",
+            "2)": "układa i zapisuje opowiadanie złożone z 6–10 poprawnych wypowiedzeń w ramach zagadnień opracowanych podczas zajęć; opisuje np. osobę, przedmiot, element świata przyrody na podstawie własnych obserwacji lub lektury;",
+            "3)": "pisze notatkę, życzenie, ogłoszenie, zaproszenie, podziękowanie, list; zapisuje adres nadawcy i odbiorcy; pisze krótkie teksty, wykorzystując aplikacje komputerowe;",
+            "4)": "pisze z pamięci i ze słuchu; przestrzega poprawności ortograficznej w wyrazach poznanych i opracowanych podczas zajęć;",
+            "5)": "stosuje poprawnie znaki interpunkcyjne na końcu zdania i przecinki przy wyliczaniu, zapisuje poznane i najczęściej stosowane skróty, w tym skróty matematyczne;",
+            "6)": "porządkuje wyrazy w kolejności alfabetycznej według pierwszej i drugiej litery;",
+            "7)": "zapisuje poprawnie liczebniki oraz wybrane, poznane w trakcie zajęć pojęcia dotyczące różnych dyscyplin naukowych;",
+            "8)": "stosuje poprawną wielkość liter w zapisie tytułów utworów, książek, poznanych nazw geograficznych, imion i nazwisk;",
+            "9)": "układa i zapisuje zdarzenia we właściwej kolejności, układa i zapisuje plan wypowiedzi."
+        },
+        "5.": {
+            "nazwa": "Osiągnięcia w zakresie kształcenia językowego. Uczeń:",
+            "1)": "wyróżnia w wypowiedziach zdania, w zdaniach wyrazy, w wyrazach samogłoski i spółgłoski;",
+            "2)": "rozpoznaje zdania oznajmujące, pytające, rozkazujące w wypowiedziach ustnych i pisemnych;",
+            "3)": "przekształca zdania oznajmujące w pytania i odwrotnie oraz zdania pojedyncze w złożone;",
+            "4)": "rozróżnia rzeczowniki, czasowniki, przymiotniki i stosuje je w poprawnej formie;",
+            "5)": "rozpoznaje wyrazy o znaczeniu przeciwnym, wyrazy pokrewne i o znaczeniu bliskoznacznym;",
+            "6)": "łączy wyrazy w wypowiedzenia i poprawnie formułuje zdanie pojedyncze i zdanie złożone;",
+            "7)": "odróżnia i nazywa utwory wierszowane od pisanych prozą, określa, który tekst jest notatką, zagadką, listem, życzeniem, podziękowaniem, ogłoszeniem, opowiadaniem, opisem, listem."
+        },
+        "6.": {
+            "nazwa": "Osiągnięcia w zakresie samokształcenia. Uczeń:",
+            "1)": "podejmuje próby zapisu nowych, samodzielnie poznanych wyrazów i sprawdza poprawność ich zapisu, korzystając ze słownika ortograficznego;",
+            "2)": "korzysta z różnych źródeł informacji, np. atlasów, czasopism dla dzieci, słowników i encyklopedii czy zasobów internetu i rozwija swoje zainteresowania;",
+            "3)": "wykorzystuje nabyte umiejętności do rozwiązywania problemów i eksploracji świata, dbając o własny rozwój i tworząc indywidualne strategie uczenia się."
+        },
+        "7.": {
+            "nazwa": "Propozycja lektur do wspólnego i indywidualnego czytania:",
+            "1)": "Hans Christian Andersen, Baśnie (do wyboru);",
+            "2)": "Justyna Bednarek, Niesamowite przygody dziesięciu skarpetek (czterech prawych i sześciu lewych);",
+            "3)": "Jan Brzechwa, Brzechwa dzieciom;",
+            "4)": "Alina Centkiewiczowa i Czesław Centkiewicz, Zaczarowana zagroda;",
+            "5)": "Waldemar Cichoń, Cukierku, ty łobuzie!;",
+            "6)": "Agnieszka Frączek, Rany Julek! O tym, jak Julian Tuwim został poetą;",
+            "7)": "Mira Jaworczakowa, Oto jest Kasia;",
+            "8)": "Grzegorz Kasdepke, Detektyw Pozytywka;",
+            "9)": "Leszek Kołakowski, Kto z was chciałby rozweselić pechowego nosorożca?;",
+            "10)": "Barbara Kosmowska, Dziewczynka z parku;",
+            "11)": "Maria Krüger, Karolcia;",
+            "12)": "Astrid Lindgren, Dzieci z Bullerbyn;",
+            "13)": "Hugh Lofting, Doktor Dolittle i jego zwierzęta;",
+            "14)": "Marcin Pałasz, Sposób na Elfa;",
+            "15)": "Joanna Papuzińska, Asiunia;",
+            "16)": "Danuta Parlak, Kapelusz Pani Wrony;",
+            "17)": "Roman Pisarski, O psie, który jeździł koleją;",
+            "18)": "Janina Porazińska, Pamiętnik Czarnego Noska;",
+            "19)": "Maria Terlikowska, Drzewo do samego nieba;",
+            "20)": "Julian Tuwim, Wiersze dla dzieci;",
+            "21)": "Barbara Tylicka, O krakowskich psach i kleparskich kotach. Polskie miasta w baśni i legendzie;",
+            "22)": "Danuta Wawiłow, Najpiękniejsze wiersze;",
+            "23)": "Łukasz Wierzbicki, Afryka Kazika;",
+            "24)": "Łukasz Wierzbicki, Dziadek i niedźwiadek."
+        }
+    },
+    "II.": {
+        "nazwa": "Edukacja matematyczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia stosunków przestrzennych i cech wielkościowych. Uczeń:",
+            "1)": "określa i prezentuje wzajemne położenie przedmiotów na płaszczyźnie i w przestrzeni; określa i prezentuje kierunek ruchu przedmiotów oraz osób; określa położenie przedmiotu na prawo/na lewo od osoby widzianej z przodu (także przedstawionej na fotografii czy obrazku);",
+            "2)": "porównuje przedmioty pod względem wyróżnionej cechy wielkościowej, np. długości czy masy; dokonuje klasyfikacji przedmiotów;",
+            "3)": "posługuje się pojęciami: pion, poziom, skos."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia liczb i ich własności. Uczeń:",
+            "1)": "liczy (w przód i wstecz) od podanej liczby po 1, po 2, po 10 itp.;",
+            "2)": "odczytuje i zapisuje, za pomocą cyfr, liczby od zera do tysiąca oraz wybrane liczby do miliona (np. 1 500, 10 000, 800 000);",
+            "3)": "wyjaśnia znaczenie cyfr w zapisie liczby; wskazuje jedności, dziesiątki, setki itd., określa kolejność, posługując się liczbą porządkową;",
+            "4)": "porównuje liczby; porządkuje liczby od najmniejszej do największej i odwrotnie; rozumie sformułowania typu: liczba o 7 większa, liczba o 10 mniejsza; stosuje znaki: <, =, >."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie posługiwania się liczbami. Uczeń:",
+            "1)": "wyjaśnia istotę działań matematycznych – dodawania, odejmowania, mnożenia, dzielenia oraz związki między nimi; korzysta intuicyjnie z własności działań;",
+            "2)": "dodaje do podanej liczby w pamięci i od podanej liczby odejmuje w pamięci: liczbę jednocyfrową, liczbę 10, liczbę 100 oraz wielokrotności 10 i 100 (w prostszych przykładach);",
+            "3)": "mnoży i dzieli w pamięci w zakresie tabliczki mnożenia; mnoży w pamięci przez 10 liczby mniejsze od 20; rozwiązuje równania z niewiadomą zapisaną w postaci okienka (uzupełnia okienko); stosuje własne strategie, wykonując obliczenia; posługuje się znakiem równości i znakami czterech podstawowych działań;",
+            "4)": "dodaje i odejmuje liczby dwucyfrowe, zapisując w razie potrzeby cząstkowe wyniki działań lub, wykonując działania w pamięci, od razu podaje wynik; oblicza sumy i różnice większych liczb w prostych przykładach typu: 250 + 50, 180 – 30; mnoży liczby dwucyfrowe przez 2, zapisując, jeśli ma taką potrzebę, cząstkowe wyniki działań; przy obliczeniach stosuje własne strategie."
+        },
+        "4.": {
+            "nazwa": "Osiągnięcia w zakresie czytania tekstów matematycznych. Uczeń:",
+            "1)": "analizuje i rozwiązuje zadania tekstowe proste i wybrane złożone; dostrzega problem matematyczny oraz tworzy własną strategię jego rozwiązania, odpowiednią do warunków zadania; opisuje rozwiązanie za pomocą działań, równości z okienkiem, rysunku lub w inny wybrany przez siebie sposób;",
+            "2)": "układa zadania i je rozwiązuje, tworzy łamigłówki matematyczne, wykorzystuje w tym procesie własną aktywność artystyczną, techniczną, konstrukcyjną; wybrane działania realizuje za pomocą prostych aplikacji komputerowych."
+        },
+        "5.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia pojęć geometrycznych. Uczeń:",
+            "1)": "rozpoznaje – w naturalnym otoczeniu (w tym na ścianach figur przestrzennych) i na rysunkach – figury geometryczne: prostokąt, kwadrat, trójkąt, koło; wyodrębnia te figury spośród innych figur; kreśli przy linijce odcinki i łamane; rysuje odręcznie prostokąty (w tym kwadraty), wykorzystując sieć kwadratową;",
+            "2)": "mierzy długości odcinków, boków figur geometrycznych itp.; podaje wynik pomiaru, posługując się jednostkami długości: centymetr, metr, milimetr; wyjaśnia związki między jednostkami długości; posługuje się wyrażeniami dwumianowanymi; wyjaśnia pojęcie kilometr;",
+            "3)": "mierzy obwody różnych figur za pomocą narzędzi pomiarowych, także w kontekstach z życia codziennego; oblicza obwód trójkąta i prostokąta (w tym także kwadratu) o danych bokach;",
+            "4)": "dostrzega symetrię w środowisku przyrodniczym, w sztuce użytkowej i innych wytworach człowieka obecnych w otoczeniu dziecka."
+        },
+        "6.": {
+            "nazwa": "Osiągnięcia w zakresie stosowania matematyki w sytuacjach życiowych oraz w innych obszarach edukacji. Uczeń:",
+            "1)": "klasyfikuje obiekty i różne elementy środowiska społeczno-przyrodniczego z uwagi na wyodrębnione cechy; dostrzega rytm w środowisku przyrodniczym, sztuce użytkowej i innych wytworach człowieka, obecnych w środowisku dziecka;",
+            "2)": "dzieli na dwie i cztery równe części, np. kartkę papieru, czekoladę; używa pojęć: połowa, dwa i pół, cztery równe części, czwarta część lub ćwierć;",
+            "3)": "wykonuje obliczenia pieniężne; zamienia złote na grosze i odwrotnie, rozróżnia nominały na monetach i banknotach, wskazuje różnice w ich sile nabywczej;",
+            "4)": "odczytuje godziny na zegarze ze wskazówkami oraz elektronicznym (wyświetlającym cyfry w systemie 24-godzinnym); wykonuje proste obliczenia dotyczące czasu; posługuje się jednostkami czasu: doba, godzina, minuta, sekunda; posługuje się stoperem, aplikacjami telefonu, tabletu, komputera; zapisuje daty np. swojego urodzenia lub datę bieżącą; posługuje się kalendarzem; odczytuje oraz zapisuje znaki rzymskie co najmniej do XII;",
+            "5)": "mierzy temperaturę za pomocą termometru oraz odczytuje ją;",
+            "6)": "dokonuje obliczeń szacunkowych w różnych sytuacjach życiowych;",
+            "7)": "waży; używa określeń: kilogram, dekagram, gram, tona; zna zależności między tymi jednostkami; odmierza płyny; używa określeń: litr, pół litra, ćwierć litra;",
+            "8)": "wykorzystuje warcaby, szachy i inne gry planszowe lub logiczne do rozwijania umiejętności myślenia strategicznego, logicznego, rozumienia zasad itd.; przekształca gry, tworząc własne strategie i zasady organizacyjne;",
+            "9)": "wykorzystuje nabyte umiejętności do rozwiązywania problemów, działań twórczych i eksploracji świata, dbając o własny rozwój i tworząc indywidualne strategie uczenia się."
+        }
+    },
+    "III.": {
+        "nazwa": "Edukacja społeczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia środowiska społecznego. Uczeń:",
+            "1)": "identyfikuje się z grupą społeczną, do której należy: rodzina, klasa w szkole, drużyna sportowa, społeczność lokalna, naród; respektuje normy i reguły postępowania w tych grupach;",
+            "2)": "wyjaśnia, iż wszyscy ludzie posiadają prawa i obowiązki, wymienia własne prawa i obowiązki, przestrzega ich i stosuje je w codziennym życiu;",
+            "3)": "przyjmuje konsekwencje swojego uczestnictwa w grupie i własnego w niej postępowania w odniesieniu do przyjętych norm i zasad;",
+            "4)": "ocenia swoje postępowanie i innych osób, odnosząc się do poznanych wartości, takich jak: godność, honor, sprawiedliwość, obowiązkowość, odpowiedzialność, przyjaźń, życzliwość, umiar, powściągliwość, pomoc, zadośćuczynienie, przepraszanie, uznanie, uczciwość, wdzięczność oraz inne, respektowane przez środowisko szkolne;",
+            "5)": "przedstawia siebie i grupę, do której należy, zapisuje swój adres, adres szkoły, zawód i miejsce pracy rodziców; posługuje się danymi osobistymi wyłącznie w sytuacjach bezpiecznych dla siebie i reprezentowanych osób; jest powściągliwy w używaniu takich danych w sytuacjach nowych i wirtualnych;",
+            "6)": "rozpoznaje i nazywa wybrane grupy społeczne, do których nie należy, a które wzbudzają jego zainteresowanie, np. drużyny i kluby sportowe, zespoły artystyczne, a także inne narodowości;",
+            "7)": "opowiada ciekawostki historyczne dotyczące regionu, kraju, wyróżniając w nich postaci fikcyjne i realne;",
+            "8)": "stosuje pojęcia: porozumienie, umowa; uczestniczy w wyborach samorządu uczniowskiego w klasie, w szkole; wymienia przykłady powstałych w efekcie porozumień i umów grup społecznych, np. stowarzyszenia pomocy chorym i niepełnosprawnym dzieciom, organizacje ekologiczne, a także stowarzyszenia dużych grup społecznych, jak miasta i państwa czy Unia Europejska;",
+            "9)": "szanuje zwyczaje i tradycje różnych grup społecznych i narodów, przedstawia i porównuje zwyczaje ludzi, np. dotyczące świąt w różnych regionach Polski, a także w różnych krajach;",
+            "10)": "wykorzystuje pracę zespołową w procesie uczenia się, w tym przyjmując rolę lidera zespołu i komunikuje się za pomocą nowych technologii."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie orientacji w czasie historycznym. Uczeń:",
+            "1)": "opowiada o legendarnym powstaniu państwa polskiego, wyjaśnia związek legendy z powstaniem godła i barw narodowych, przedstawia wybrane legendy dotyczące regionu, w którym mieszka lub inne;",
+            "2)": "rozpoznaje: godło, barwy, hymn narodowy, mundur wojskowy, wybrane stroje ludowe, np. związane z regionem Polski, w którym mieszka;",
+            "3)": "uczestniczy w świętach narodowych i innych ważnych dniach pamięci narodowej; wykonuje kokardę narodową, biało-czerwony proporczyk; zachowuje się godnie i z szacunkiem podczas śpiewania lub słuchania hymnu, wciągania flagi na maszt itp.;",
+            "4)": "rozpoznaje i nazywa patrona szkoły, miejscowości, w której mieszka, wyjaśnia pojęcie „patron”, wymienia imiona i nazwiska, np. pierwszego władcy i króla Polski, obecnego prezydenta Polski, wymienia nazwę pierwszej stolicy Polski;",
+            "5)": "wyjaśnia znaczenie wybranych zwyczajów i tradycji polskich;",
+            "6)": "opisuje znaczenie dorobku minionych epok w życiu człowieka, jest świadomy, że stosuje w swej aktywności ten dorobek, np. cyfry arabskie i rzymskie, papier, mydło, instrumenty muzyczne itp.;",
+            "7)": "opowiada historię własnej rodziny, przedstawia wybrane postacie i prezentuje informacje o wielkich Polakach: królowa Jadwiga, król Stefan Batory, astronom Mikołaj Kopernik, noblistka Maria Skłodowska-Curie, alpinistka Wanda Rutkiewicz, papież Jan Paweł II, nauczycielka – cichociemna gen. Elżbieta Zawacka „Zo”."
+        }
+    },
+    "IV.": {
+        "nazwa": "Edukacja przyrodnicza.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia środowiska przyrodniczego. Uczeń:",
+            "1)": "rozpoznaje w swoim otoczeniu popularne gatunki roślin i zwierząt, w tym zwierząt hodowlanych, a także gatunki objęte ochroną;",
+            "2)": "rozpoznaje i wyróżnia cechy ekosystemów, takich jak: łąka, jezioro, rzeka, morze, pole, staw, las, las gospodarczy; określa składowe i funkcje ekosystemu na wybranym przykładzie, np. las, warstwy lasu, polany, torfowiska, martwe drzewo w lesie;",
+            "3)": "rozpoznaje wybrane zwierzęta i rośliny, których w naturalnych warunkach nie spotyka się w polskim środowisku przyrodniczym;",
+            "4)": "odszukuje w różnych dostępnych zasobach, w tym internetowych, informacje dotyczące środowiska przyrodniczego, potrzebne do wykonania zadania, ćwiczenia;",
+            "5)": "prowadzi proste hodowle roślin, przedstawia zasady opieki nad zwierzętami, domowymi, hodowlanymi i innymi;",
+            "6)": "planuje, wykonuje proste obserwacje, doświadczenia i eksperymenty dotyczące obiektów i zjawisk przyrodniczych, tworzy notatki z obserwacji, wyjaśnia istotę obserwowanych zjawisk według procesu przyczynowo-skutkowego i czasowego;",
+            "7)": "chroni przyrodę, wskazuje wybrane miejsca ochrony przyrody oraz parki narodowe, pomniki przyrody w najbliższym otoczeniu – miejscowości, regionie;",
+            "8)": "segreguje odpady i ma świadomość przyczyn i skutków takiego postępowania."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie funkcji życiowych człowieka, ochrony zdrowia, bezpieczeństwa i odpoczynku. Uczeń:",
+            "1)": "przedstawia charakterystykę wybranych zajęć i zawodów ludzi znanych z miejsca zamieszkania oraz zawodów użyteczności publicznej: nauczyciel, żołnierz, policjant, strażak, lekarz, pielęgniarz czy leśnik, a ponadto rozumie istotę pracy w służbach mundurowych i medycznych;",
+            "2)": "posługuje się numerami telefonów alarmowych, formułuje komunikat – wezwanie o pomoc: Policji, Pogotowia Ratunkowego, Straży Pożarnej;",
+            "3)": "posługuje się danymi osobowymi w kontakcie ze służbami mundurowymi i medycznymi, w sytuacji zagrożenia zdrowia i życia;",
+            "4)": "dba o higienę oraz estetykę własną i otoczenia;",
+            "5)": "reaguje stosownym zachowaniem w sytuacji zagrożenia bezpieczeństwa, zdrowia jego lub innej osoby;",
+            "6)": "wymienia wartości odżywcze produktów żywnościowych; ma świadomość znaczenia odpowiedniej diety dla utrzymania zdrowia, ogranicza spożywanie posiłków o niskich wartościach odżywczych i niezdrowych, zachowuje umiar w spożywaniu produktów słodzonych, zna konsekwencje zjadania ich w nadmiarze;",
+            "7)": "przygotowuje posiłki służące utrzymaniu zdrowia;",
+            "8)": "ubiera się odpowiednio do stanu pogody, poszukuje informacji na temat pogody, wykorzystując np. internet;",
+            "9)": "rozróżnia podstawowe znaki drogowe, stosuje przepisy bezpieczeństwa w ruchu drogowym i miejscach publicznych; przestrzega zasad zachowania się w środkach publicznego transportu zbiorowego;",
+            "10)": "stosuje się do zasad bezpieczeństwa w szkole, odnajduje drogę ewakuacyjną, rozpoznaje znaki i symbole informujące o różnych rodzajach niebezpieczeństw oraz zachowuje się zgodnie z informacją w nich zawartą; stosuje zasady bezpiecznej zabawy w różnych warunkach i porach roku;",
+            "11)": "ma świadomość istnienia zagrożeń ze środowiska naturalnego, np. nagła zmiana pogody, huragan, ulewne deszcze, burza, susza oraz ich następstwa: powódź, pożar, piorun; określa odpowiednie sposoby zachowania się człowieka w takich sytuacjach;",
+            "12)": "ma świadomość obecności nieprawdziwych informacji, np. w przestrzeni wirtualnej, publicznej; sprawdza informacje, zadając pytania nauczycielowi, rodzicom, policjantowi;",
+            "13)": "stosuje zasady bezpieczeństwa podczas korzystania z urządzeń cyfrowych, rozumie i respektuje ograniczenia związane z czasem pracy z takimi urządzeniami, oraz stosuje zasady netykiety;",
+            "14)": "ma świadomość, iż nieodpowiedzialne korzystanie z technologii ma wpływ na utratę zdrowia człowieka;",
+            "15)": "ma świadomość pozytywnego znaczenia technologii w życiu człowieka."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia przestrzeni geograficznej. Uczeń:",
+            "1)": "określa położenie i warunki naturalne swojej miejscowości oraz okolicy, opisuje charakterystyczne formy terenu, składniki przyrody, charakterystyczne miejsca, np. miejsca pamięci narodowej, najważniejsze zakłady pracy, w tym ważniejsze przedsiębiorstwa produkcyjne i usługowe, interesujące zabytki, pomniki, tereny rekreacyjne, parki krajobrazowe, parki narodowe;",
+            "2)": "wskazuje na mapie fizycznej Polski jej granice, główne miasta, rzeki, nazwy krain geograficznych;",
+            "3)": "czyta proste plany, wskazuje kierunki główne na mapie, odczytuje podstawowe znaki kartograficzne map, z których korzysta; za pomocą komputera, wpisując poprawnie adres, wyznacza np. trasę przejazdu rowerem;",
+            "4)": "wymienia nazwę stolicy Polski i charakterystyczne obiekty, wyjaśnia znaczenie stolicy dla całego kraju, wskazuje na mapie jej położenie;",
+            "5)": "przedstawia charakterystyczne dla Polski dyscypliny sportowe, gospodarcze lub inne np. artystyczną działalność człowieka, w której Polska odnosi sukcesy lub z niej słynie;",
+            "6)": "wyznacza kierunki główne w terenie na podstawie cienia, określa, z którego kierunku wieje wiatr, rozpoznaje charakterystyczne rodzaje opadów;",
+            "7)": "przedstawia położenie Ziemi w Układzie Słonecznym."
+        }
+    },
+    "V.": {
+        "nazwa": "Edukacja plastyczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie percepcji wizualnej, obserwacji i doświadczeń. Uczeń:",
+            "1)": "wyróżnia w obrazach, ilustracjach, impresjach plastycznych, plakatach, na fotografiach:",
+            "2)": "kształty obiektów – nadaje im nazwę i znaczenie, podaje części składowe,",
+            "3)": "wielkości i proporcje, położenie obiektów i elementów złożonych, różnice i podobieństwa w wyglądzie tego samego przedmiotu w zależności od położenia i zmiany stanowiska osoby patrzącej na obiekt,",
+            "4)": "barwę, walor różnych barw, różnice walorowe w zakresie jednej barwy, fakturę,",
+            "5)": "cechy charakterystyczne i indywidualne ludzi w zależności od wieku, płci, typu budowy; cechy charakterystyczne zwierząt, różnice w budowie, kształcie, ubarwieniu, sposobach poruszania się;",
+            "6)": "określa w swoim otoczeniu kompozycje obiektów i zjawisk, np. zamknięte (mozaiki na dywanie, rytmy na przedmiotach użytkowych), otwarte (chmury, papiery ozdobne, pościel, firany), kompozycje o budowie symetrycznej."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie działalności ekspresji twórczej. Uczeń:",
+            "1)": "rysuje kredką, kredą, ołówkiem, patykiem (płaskim i okrągłym), piórem, węglem, mazakiem;",
+            "2)": "maluje farbami, tuszami przy użyciu pędzli (płaskich, okrągłych), palców, stempli;",
+            "3)": "wydziera, wycina, składa, przylepia, wykorzystując gazetę, papier kolorowy, makulaturę, karton, ścinki tekstylne itp.;",
+            "4)": "modeluje (lepi i konstruuje) z gliny, modeliny, plasteliny, mas papierowych i innych, zarówno z materiałów naturalnych i przemysłowych;",
+            "5)": "powiela za pomocą kalki, tuszu, farby, stempla wykonanego, np. z korka i innych tworzyw, a także przy pomocy prostych programów komputerowych;",
+            "6)": "wykonuje prace, modele, rekwizyty, impresje plastyczne potrzebne do aktywności artystycznej i naukowej;",
+            "7)": "wykonuje prace i impresje plastyczne jako formy przekazania i przedstawienia uczuć, nastrojów i zachowań (np. prezent, zaproszenie);",
+            "8)": "ilustruje sceny i sytuacje (realne i fantastyczne) inspirowane wyobraźnią, baśnią, opowiadaniem i muzyką; korzysta z narzędzi multimedialnych;",
+            "9)": "tworzy przy użyciu prostej aplikacji komputerowej, np. plakaty, ulotki i inne wytwory."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie recepcji sztuk plastycznych. Uczeń:",
+            "1)": "nazywa dziedziny sztuk plastycznych, np. malarstwo, rzeźbę, w tym dziedziny sztuki użytkowej, np. meblarstwo, tkactwo, ceramikę, hafciarstwo, architekturę, grafikę komputerową;",
+            "2)": "rozpoznaje i nazywa podstawowe gatunki dzieł malarskich i graficznych: pejzaż, portret, scena rodzajowa; nazywa wybrane przykłady dzieł znanych artystów: malarzy, rzeźbiarzy, architektów z regionu swego pochodzenia lub innych;",
+            "3)": "wyjaśnia pojęcia: oryginał czy kopia obrazu lub rzeźby; miniatura obrazu lub rzeźby; reprodukcja itp.; wskazuje miejsca prezentacji sztuk plastycznych."
+        }
+    },
+    "VI.": {
+        "nazwa": "Edukacja techniczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie organizacji pracy. Uczeń:",
+            "1)": "planuje i realizuje własne projekty/prace; realizując te projekty/prace współdziała w grupie;",
+            "2)": "wyjaśnia znaczenie oraz konieczność zachowania ładu, porządku i dobrej organizacji miejsca pracy ze względów bezpieczeństwa;",
+            "3)": "ocenia projekty/prace, wykorzystując poznane i zaakceptowane wartości: systematyczność działania, pracowitość, konsekwencja, gospodarność, oszczędność, umiar w odniesieniu do korzystania z czasu, materiałów, narzędzi i urządzeń;",
+            "4)": "organizuje pracę, wykorzystuje urządzenia techniczne i technologie; zwraca uwagę na zdrowie i zachowanie bezpieczeństwa, z uwzględnieniem selekcji informacji, wykonywania czynności użytecznych lub potrzebnych."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie znajomości informacji technicznej, materiałów i technologii wytwarzania. Uczeń:",
+            "1)": "odczytuje podstawowe informacje techniczne i stosuje w działaniu sposoby użytkowania: materiału, narzędzi, urządzenia zgodnie z instrukcją, w tym multimedialną;",
+            "2)": "wykonuje przedmioty użytkowe, w tym dekoracyjne i modele techniczne:",
+            "3)": "z zastosowaniem połączeń nierozłącznych: sklejanie klejem, wiązanie, szycie lub zszywanie zszywkami, sklejanie taśmą itp.,",
+            "4)": "używając połączeń rozłącznych: spinanie spinaczami biurowymi, wiązanie sznurkiem lub wstążką ozdobną,",
+            "5)": "bez użycia kleju, taśm, zszywek, np. wybrane modele technik origami, modele kartonowe nacinane,",
+            "6)": "z wykorzystaniem prądu elektrycznego: lampion, dekoracja świąteczna;",
+            "7)": "stosuje poznaną technologię przy wykonywaniu przedmiotów użytkowych lub montowaniu wybranych modeli urządzeń technicznych;",
+            "8)": "wykonuje przedmiot/model/pracę według własnego planu i opracowanego sposobu działania."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie stosowania narzędzi i obsługi urządzeń technicznych. Uczeń:",
+            "1)": "wyjaśnia działanie i funkcję narzędzi i urządzeń wykorzystywanych w gospodarstwie domowym i w szkole;",
+            "2)": "posługuje się bezpiecznie prostymi narzędziami pomiarowymi, urządzeniami z gospodarstwa domowego, a także urządzeniami dostępnymi w szkole."
+        }
+    },
+    "VII.": {
+        "nazwa": "Edukacja informatyczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia, analizowania i rozwiązywania problemów. Uczeń:",
+            "1)": "układa w logicznym porządku: obrazki, teksty, polecenia (instrukcje) składające się m.in. na codzienne czynności;",
+            "2)": "tworzy polecenie lub sekwencje poleceń dla określonego planu działania prowadzące do osiągnięcia celu;",
+            "3)": "rozwiązuje zadania, zagadki i łamigłówki prowadzące do odkrywania algorytmów."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie programowania i rozwiązywania problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:",
+            "1)": "programuje wizualnie: proste sytuacje lub historyjki według pomysłów własnych i pomysłów opracowanych wspólnie z innymi uczniami, pojedyncze polecenia, a także ich sekwencje sterujące obiektem na ekranie komputera bądź innego urządzenia cyfrowego;",
+            "2)": "tworzy proste rysunki, dokumenty tekstowe, łącząc tekst z grafiką, np. zaproszenia, dyplomy, ulotki, ogłoszenia; powiększa, zmniejsza, kopiuje, wkleja i usuwa elementy graficzne i tekstowe – doskonali przy tym umiejętności pisania, czytania, rachowania i prezentowania swoich pomysłów;",
+            "3)": "zapisuje efekty swojej pracy we wskazanym miejscu."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie posługiwania się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:",
+            "1)": "posługuje się komputerem lub innym urządzeniem cyfrowym oraz urządzeniami zewnętrznymi przy wykonywaniu zadania;",
+            "2)": "kojarzy działanie komputera lub innego urządzenia cyfrowego z efektami pracy z oprogramowaniem;",
+            "3)": "korzysta z udostępnionych mu stron i zasobów internetowych."
+        },
+        "4.": {
+            "nazwa": "Osiągnięcia w zakresie rozwijania kompetencji społecznych. Uczeń:",
+            "1)": "współpracuje z uczniami, wymienia się z nimi pomysłami i doświadczeniami, wykorzystując technologię;",
+            "2)": "wykorzystuje możliwości technologii do komunikowania się w procesie uczenia się."
+        },
+        "5.": {
+            "nazwa": "Osiągnięcia w zakresie przestrzegania prawa i zasad bezpieczeństwa. Uczeń:",
+            "1)": "posługuje się udostępnioną mu technologią zgodnie z ustalonymi zasadami;",
+            "2)": "rozróżnia pożądane i niepożądane zachowania innych osób (również uczniów) korzystających z technologii, zwłaszcza w sieci internet;",
+            "3)": "przestrzega zasad dotyczących korzystania z efektów pracy innych osób i związanych z bezpieczeństwem w internecie."
+        }
+    },
+    "VIII.": {
+        "nazwa": "Edukacja muzyczna.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie słuchania muzyki. Uczeń:",
+            "1)": "słucha, poszukuje źródeł dźwięku i je identyfikuje;",
+            "2)": "słucha muzyki w połączeniu z aktywnością ruchową, gestami dźwiękotwórczymi: klaskanie, pstrykanie, tupanie, uderzanie o uda itp. oraz z towarzyszeniem prostych opracowań instrumentalnych;",
+            "3)": "reaguje na sygnały muzyczne w różnych sytuacjach zadaniowych;",
+            "4)": "odróżnia dźwięki muzyki, np. wysokie – niskie, długie – krótkie, ciche – głośne, głosy ludzkie: sopran, bas; odróżnia i nazywa wybrane instrumenty muzyczne;",
+            "5)": "rozróżnia muzykę wykonywaną przez solistę, chór, orkiestrę;",
+            "6)": "rozróżnia na podstawie słuchanego utworu muzykę: smutną, wesołą, skoczną, marszową itp.;",
+            "7)": "słucha w skupieniu krótkich utworów muzycznych."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie ekspresji muzycznej. Śpiew. Uczeń:",
+            "1)": "śpiewa różne zestawy głosek, sylaby, wykorzystuje poznane melodie i tworzy własne, naśladuje odgłosy zwierząt;",
+            "2)": "nuci poznane melodie, śpiewa piosenki podczas zabawy, nauki, uroczystości szkolnych, świąt w tym świąt narodowych;",
+            "3)": "śpiewa śpiewanki, piosenki i pieśni charakterystyczne dla tradycji i zwyczajów polskich, kilka utworów patriotycznych i historycznych;",
+            "4)": "śpiewa dbając o prawidłową postawę, artykulację i oddech, przy zachowaniu naturalnej skali głosu;",
+            "5)": "rozpoznaje i śpiewa hymn Polski;",
+            "6)": "śpiewa kilka wybranych krótkich piosenek w języku obcym."
+        },
+        "3.": {
+            "nazwa": "Improwizacja ruchowa, rytmika i taniec. Uczeń:",
+            "1)": "przedstawia ruchem treść muzyczną (np. dynamikę, nastrój, wysokość dźwięku, tempo, artykulację) oraz treść pozamuzyczną (np. fabułę, odczucia, przekład znaczeniowy słów);",
+            "2)": "interpretuje ruchem schematy rytmiczne;",
+            "3)": "tworzy improwizacje ruchowe inspirowane wyliczankami, rymowankami i rytmizowanymi tekstami;",
+            "4)": "wykonuje pląsy;",
+            "5)": "porusza się i tańczy według utworzonych przez siebie układów ruchowych, z rekwizytem, bez rekwizytu do muzyki i przy muzyce;",
+            "6)": "tworzy sekwencje i układy poruszania się do ulubionych przez siebie utworów muzycznych, wykorzystuje je do animacji i zabawy w grupie;",
+            "7)": "tańczy według układów ruchowych charakterystycznych dla wybranych tańców (w tym integracyjnych, ludowych polskich oraz innych krajów Europy i świata)."
+        },
+        "4.": {
+            "nazwa": "Gra na instrumentach muzycznych. Uczeń:",
+            "1)": "gra zadane przez nauczyciela i własne schematy rytmiczne;",
+            "2)": "wykonuje tematy rytmiczne wybranych, znanych utworów muzycznych (ludowych, popularnych, dziecięcych, klasycznych, wokalnych, instrumentalnych, polskich i zagranicznych) z użyciem instrumentów perkusyjnych;",
+            "3)": "realizuje schematy i tematy rytmiczne, eksperymentuje przy użyciu np. patyczków, pudełek, papieru, trawy, piszczałek, gwizdków, kogucików na wodę;",
+            "4)": "wykonuje instrumenty m.in. z materiałów naturalnych i innych oraz wykorzystuje tak powstałe instrumenty do akompaniamentu, realizacji dźwięku podczas zabaw i zadań edukacyjnych, organizacji koncertów i przedstawień teatralnych;",
+            "5)": "wykonuje akompaniament do śpiewu, stosuje gesty dźwiękotwórcze (np. tupanie, klaskanie, pstrykanie, uderzanie o uda);",
+            "6)": "eksperymentuje i poszukuje dźwięków, fragmentów znanych melodii przy użyciu np. dzwonków, ksylofonu, fletu podłużnego, flażoletu – flecika polskiego;",
+            "7)": "gra melodie piosenek i utworów instrumentalnych, do wyboru: na dzwonkach, ksylofonie, flecie podłużnym, flażolecie – fleciku polskim lub innych."
+        },
+        "5.": {
+            "nazwa": "Osiągnięcia w zakresie znajomości form zapisu dźwięku. Uczeń:",
+            "1)": "wyjaśnia różne formy zapisu dźwięków, muzyki, np. nagranie przy pomocy komputera, dyktafonu, telefonu, czy zapis przy pomocy notacji muzycznej;",
+            "2)": "zapisuje w zabawie z instrumentami perkusyjnymi dźwięki np. poprzez układ piktogramów, klocków rytmicznych, kolorów, liczb, czy obrazków; szyfruje, koduje, wykorzystuje utworzony zapis w zabawie;",
+            "3)": "korzysta z wybranego zapisu melodii w czasie gry na instrumencie: dzwonkach, ksylofonie, flecie podłużnym, flażolecie – fleciku polskim."
+        }
+    },
+    "IX.": {
+        "nazwa": "Wychowanie fizyczne.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie utrzymania higieny osobistej i zdrowia. Uczeń:",
+            "1)": "utrzymuje w czystości ręce i całe ciało, przebiera się przed zajęciami ruchowymi i po ich zakończeniu; wykonuje te czynności samodzielnie i w stosownym momencie;",
+            "2)": "dostosowuje strój do rodzaju pogody i pory roku w trakcie zajęć ruchowych odpowiednio na świeżym powietrzu i w pomieszczeniu;",
+            "3)": "wyjaśnia znaczenie ruchu w procesie utrzymania zdrowia;",
+            "4)": "przygotowuje we właściwych sytuacjach i w odpowiedni sposób swoje ciało do wykonywania ruchu;",
+            "5)": "ma świadomość znaczenia systematyczności i wytrwałości w wykonywaniu ćwiczeń;",
+            "6)": "uznaje, że każdy człowiek ma inne możliwości w zakresie sprawności fizycznej, akceptuje sytuację dzieci, które z uwagi na chorobę nie mogą być sprawne w każdej formie ruchu."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie sprawności motorycznych. Uczeń:",
+            "1)": "przyjmuje podstawowe pozycje do ćwiczeń: postawa zasadnicza, rozkrok, wykrok, zakrok, stanie jednonóż, klęk podparty, przysiad podparty, podpór przodem, podpór tyłem, siad klęczny, skrzyżny, skulony, prosty;",
+            "2)": "pokonuje w biegu przeszkody naturalne i sztuczne, biega z wysokim unoszeniem kolan, biega w połączeniu ze skokiem, przenoszeniem przyborów np. piłki, pałeczki, z rzutem do celu ruchomego i nieruchomego, bieg w różnym tempie, realizuje marszobieg;",
+            "3)": "rzuca i podaje jednorącz, w miejscu i ruchu, oburącz do przodu, znad głowy, piłką małą i dużą, rzuca małymi przyborami na odległość i do celu, skacze jednonóż i obunóż ze zmianą tempa, kierunku, pozycji ciała, skacze w dal dowolnym sposobem, skacze przez skakankę, wykonuje przeskok zawrotny przez ławeczkę, naskoki i zeskoki, skoki zajęcze;",
+            "4)": "wykonuje ćwiczenia zwinnościowe:",
+            "5)": "skłony, skrętoskłony, przetoczenie, czołganie, podciąganie,",
+            "6)": "czworakowanie ze zmianą kierunku i tempa ruchu,",
+            "7)": "wspina się,",
+            "8)": "mocowanie w pozycjach niskich i wysokich,",
+            "9)": "podnoszenie i przenoszenie przyborów;",
+            "10)": "wykonuje przewrót w przód z przysiadu podpartego;",
+            "11)": "wykonuje ćwiczenia równoważne bez przyboru i z przyborem np. na ławeczce gimnastycznej;",
+            "12)": "samodzielnie wykonuje ćwiczenia prowadzące do zapobiegania wadom postawy."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie różnych form rekreacyjno-sportowych. Uczeń:",
+            "1)": "organizuje zespołową zabawę lub grę ruchową z wykorzystaniem przyboru lub bez;",
+            "2)": "zachowuje powściągliwość w ocenie sprawności fizycznej koleżanek i kolegów – uczestników zabawy, respektuje ich prawo do indywidualnego tempa rozwoju, radzi sobie w sytuacji przegranej i akceptuje zwycięstwo, np. drużyny przeciwnej, gratuluje drużynie zwycięskiej sukcesu;",
+            "3)": "respektuje przepisy, reguły zabaw i gier ruchowych, przepisy ruchu drogowego w odniesieniu do pieszych, rowerzystów, rolkarzy, biegaczy i innych osób, których poruszanie się w miejscu publicznym może stwarzać zagrożenie bezpieczeństwa;",
+            "4)": "uczestniczy w zabawach i grach zespołowych, z wykorzystaniem różnych rodzajów piłek;",
+            "5)": "wykonuje prawidłowo elementy charakterystyczne dla gier zespołowych: rzuty i chwyty ringo, podania piłki do partnera jednorącz i o burącz w m iejscu l ub w ruchu, odbicia piłki, kozłowanie w miejscu i w ruchu, podania piłki w miejscu i w ruchu, prowadzenie piłki, strzał do celu;",
+            "6)": "układa zespołowe zabawy ruchowe i w nich uczestniczy, ma świadomość, iż sukces w takiej zabawie odnosi się dzięki sprawności, zaradności i współdziałaniu;",
+            "7)": "jeździ na dostępnym sprzęcie sportowym, np. hulajnodze, rolkach, rowerze, sankach, łyżwach."
+        }
+    },
+    "X.": {
+        "nazwa": "Edukacja językowa. Język obcy nowożytny.",
+        "1.": {
+            "nazwa": "Uczeń posługuje się bardzo podstawowym zasobem środków językowych dotyczących jego samego i jego najbliższego otoczenia, umożliwiającym realizację pozostałych wymagań ogólnych w zakresie następujących tematów:",
+            "1)": "ja i moi bliscy (rodzina, przyjaciele);",
+            "2)": "moje miejsce zamieszkania (mój dom, moja miejscowość);",
+            "3)": "moja szkoła;",
+            "4)": "popularne zawody;",
+            "5)": "mój dzień, moje zabawy;",
+            "6)": "jedzenie;",
+            "7)": "sklep;",
+            "8)": "mój czas wolny i wakacje;",
+            "9)": "święta i tradycje, mój kraj;",
+            "10)": "sport;",
+            "11)": "moje samopoczucie;",
+            "12)": "przyroda wokół mnie;",
+            "13)": "świat baśni i wyobraźni.",
+            "14)": "Uczeń rozumie bardzo proste wypowiedzi ustne, artykułowane wyraźnie i powoli, w standardowej odmianie języka:",
+            "15)": "reaguje na polecenia;",
+            "16)": "rozumie sens krótkich wypowiedzi, opowiadań, bajek i historyjek oraz prostych piosenek i wierszyków, szczególnie gdy są wspierane np. obrazkami, rekwizytami, ruchem, mimiką, gestami, dodatkowymi dźwiękami;",
+            "17)": "znajduje w wypowiedzi określone informacje.",
+            "18)": "Uczeń rozumie wyrazy oraz jedno- lub kilkuzdaniowe, bardzo proste wypowiedzi pisemne (np. historyjki obrazkowe z tekstem, opowiadania):",
+            "19)": "rozumie ogólny sens tekstu, szczególnie gdy jest wspierany obrazem lub dźwiękiem;",
+            "20)": "znajduje w wypowiedzi określone informacje."
+        },
+        "2.": {
+            "nazwa": "W zakresie wypowiedzi ustnych uczeń:",
+            "1)": "powtarza wyrazy i proste zdania;",
+            "2)": "tworzy bardzo proste i krótkie wypowiedzi według wzoru, np. nazywa obiekty z otoczenia i opisuje je, nazywa czynności;",
+            "3)": "recytuje wiersze, rymowanki, odgrywa dialogi, śpiewa piosenki – samodzielnie lub w grupie np. w realizacji małych form teatralnych;",
+            "4)": "używa poznanych wyrazów i zwrotów podczas zabawy."
+        },
+        "3.": {
+            "nazwa": "W zakresie wypowiedzi pisemnych uczeń:",
+            "1)": "przepisuje wyrazy i proste zdania;",
+            "2)": "pisze pojedyncze wyrazy i zwroty;",
+            "3)": "pisze bardzo proste i krótkie zdania według wzoru i samodzielnie."
+        },
+        "4.": {
+            "nazwa": "W zakresie reagowania uczeń:",
+            "1)": "reaguje werbalnie i niewerbalnie na polecenia;",
+            "2)": "przedstawia siebie i inne osoby – mówi np. jak się nazywa, ile ma lat, skąd pochodzi, co potrafi robić;",
+            "3)": "zadaje pytania i udziela odpowiedzi w ramach wyuczonych zwrotów;",
+            "4)": "stosuje podstawowe zwroty grzecznościowe (np. wita się i żegna, dziękuje, prosi, przeprasza);",
+            "5)": "wyraża swoje upodobania.",
+            "6)": "W zakresie przetwarzania tekstu uczeń nazywa w języku obcym nowożytnym np. osoby, zwierzęta, przedmioty, czynności – z najbliższego otoczenia oraz przedstawione w materiałach wizualnych i audiowizualnych."
+        },
+        "5.": {
+            "nazwa": "Uczeń:",
+            "1)": "wie, że ludzie posługują się różnymi językami i aby się z nimi porozumieć, warto nauczyć się ich języka;",
+            "2)": "posiada podstawowe informacje o krajach, w których ludzie posługują się danym językiem obcym.",
+            "3)": "Uczeń potrafi określić, czego się nauczył, i wie, w jaki sposób może samodzielnie pracować nad językiem (np. przez oglądanie bajek w języku obcym nowożytnym, korzystanie ze słowników obrazkowych i gier edukacyjnych).",
+            "4)": "Uczeń współpracuje z rówieśnikami w trakcie nauki.",
+            "5)": "Uczeń korzysta ze źródeł informacji w języku obcym nowożytnym (np. ze słowników obrazkowych, książeczek), również za pomocą technologii informacyjno- -komunikacyjnych."
+        }
+    },
+    "XI.": {
+        "nazwa": "Edukacja językowa. Język mniejszości narodowej lub etnicznej.",
+        "1.": {
+            "nazwa": "Świadomość własnego dziedzictwa narodowego lub etnicznego. Uczeń:",
+            "1)": "dostrzega i rozumie wartość swego języka ojczystego, ma świadomość swojej tożsamości narodowej lub etnicznej;",
+            "2)": "poznaje elementy przyrody, kultury materialnej i duchowej mniejszości narodowej lub etnicznej, do której należy;",
+            "3)": "poznaje elementy historii mniejszości narodowej lub etnicznej, do której należy."
+        },
+        "2.": {
+            "nazwa": "Kształcenie językowe. Uczeń:",
+            "1)": "uważnie słucha wypowiedzi i korzysta z przekazywanych informacji;",
+            "2)": "czyta ze zrozumieniem teksty literackie oraz informacyjne;",
+            "3)": "wyciąga wnioski z przesłanek zawartych w tekście;",
+            "4)": "wyszukuje w tekście potrzebne informacje i w miarę możliwości korzysta ze słowników i encyklopedii przeznaczonych dla dzieci na I etapie edukacyjnym;",
+            "5)": "zna formy użytkowe: życzenia, zaproszenie, zawiadomienie, list, notatka do kroniki;",
+            "6)": "zna i stosuje formy grzecznościowe w kontaktach międzyludzkich;",
+            "7)": "tworzy w formie ustnej i pisemnej kilkuzdaniową wypowiedź, krótkie opowiadanie i opis, list prywatny, życzenia, zaproszenie;",
+            "8)": "dobiera właściwe formy komunikowania się w różnych sytuacjach społecznych;",
+            "9)": "przejawia wrażliwość estetyczną w wypowiedziach inspirowanych twórczością dla dzieci, tworzy, przekształca i rozwija swoje wypowiedzi;",
+            "10)": "uczestniczy w rozmowach: zadaje pytania, udziela odpowiedzi i prezentuje własne zdanie;",
+            "11)": "poszerza zasób słownictwa, czytając teksty literackie oraz inne teksty kultury;",
+            "12)": "zna alfabet: rozróżnia litery, głoski, znaki fonetyczne; dzieli wyrazy na sylaby; oddziela wyrazy w zdaniu, oddziela zdania w tekście i poprawnie je zapisuje (zgodnie z elementarnymi zasadami ortografii i interpunkcji);",
+            "13)": "pisze czytelnie i estetycznie;",
+            "14)": "przepisuje teksty, pisze z pamięci i ze słuchu; w miarę swoich możliwości samodzielnie realizuje pisemne zadania domowe."
+        },
+        "3.": {
+            "nazwa": "Kształcenie literackie i kulturowe. Uczeń:",
+            "1)": "w tekście literackim wybiera określone fragmenty, określa czas i miejsce akcji, wskazuje głównych bohaterów;",
+            "2)": "czyta i recytuje, z uwzględnieniem interpunkcji, intonacji, akcentów, poprawnej wymowy;",
+            "3)": "wykorzystuje teksty literackie do tworzenia własnych wypowiedzi;",
+            "4)": "czyta wskazane teksty literackie i wypowiada się na ich temat."
+        }
+    },
+    "XII.": {
+        "nazwa": "Edukacja językowa. Język regionalny ‒ język kaszubski.",
+        "1.": {
+            "nazwa": "Znajomość środków językowych. Uczeń posługuje się podstawowym zasobem środków językowych dotyczących jego samego, najbliższego otoczenia i przeżywanej codzienności, umożliwiającym realizację wymagań ogólnych w zakresie następujących obszarów tematycznych:",
+            "1)": "ja i moi bliscy: rodzina, przyjaciele;",
+            "2)": "mój dom, pomieszczenia, meble, sprzęty użytku codziennego;",
+            "3)": "jedzenie, artykuły spożywcze, owoce i warzywa, posiłki i potrawy;",
+            "4)": "moja szkoła: moja klasa, przybory szkolne;",
+            "5)": "przyroda wokół mnie;",
+            "6)": "czas: kalendarz, pory roku, miesiące, dni tygodnia;",
+            "7)": "Kaszuby, moje środowisko lokalne, moja miejscowość na mapie Kaszub i Polski;",
+            "8)": "popularne i tradycyjne zawody związane z życiem na Kaszubach;",
+            "9)": "zakupy, sklep, rynek, targowisko;",
+            "10)": "mój dzień (plan dnia), mój czas wolny, wakacje;",
+            "11)": "moje zainteresowania, zabawy i zabawki dziecięce;",
+            "12)": "święta i tradycje (Gòdë i Jastrë);",
+            "13)": "świat baśni i wyobraźni, bohaterowie bajek i mitów kaszubskich."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia wypowiedzi ustnych. Uczeń:",
+            "1)": "rozumie proste wypowiedzi ustne artykułowane wyraźnie, powoli;",
+            "2)": "reaguje ruchem, gestem i słownie na polecenia;",
+            "3)": "rozumie sens krótkich wypowiedzi, opowiadań, bajek i historyjek oraz prostych piosenek i wierszyków i innych tekstów, szczególnie gdy są wspierane, np. obrazkami, rekwizytami, ruchem, mimiką, gestami, dodatkowymi dźwiękami;",
+            "4)": "rozumie sens tekstu, szczególnie gdy jest wspierany obrazem lub dźwiękiem;",
+            "5)": "znajduje określone informacje w usłyszanym tekście;",
+            "6)": "potrafi odróżniać ważne i mniej ważne informacje w usłyszanym tekście."
+        },
+        "3.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia wypowiedzi pisemnych. Uczeń:",
+            "1)": "rozumie sens tekstu, szczególnie gdy jest wspierany obrazem lub dźwiękiem;",
+            "2)": "znajduje określone informacje w tekście pisanym;",
+            "3)": "poprawnie czyta bardzo krótkie teksty literackie;",
+            "4)": "czyta proste nieliterackie teksty;",
+            "5)": "podczas czytania uwzględnia dykcję, pauzy i akcent."
+        },
+        "4.": {
+            "nazwa": "Osiągnięcia w zakresie tworzenia wypowiedzi ustnych (mówienie). Uczeń:",
+            "1)": "powtarza wyrazy i proste zdania w języku kaszubskim;",
+            "2)": "wygłasza z pamięci bardzo proste i krótkie teksty w języku kaszubskim: wiersze, rymowanki, piosenki z repertuaru dziecięcego – samodzielnie lub w grupie (np. podczas miniprzedstawienia teatralnego);",
+            "3)": "tworzy bardzo proste i krótkie wypowiedzi według wzoru, np. nazywa obiekty z otoczenia i opisuje je, nazywa czynności;",
+            "4)": "używa poznanych wyrazów i zwrotów podczas zabawy."
+        },
+        "5.": {
+            "nazwa": "Osiągnięcia w zakresie tworzenia wypowiedzi pisemnych. Uczeń:",
+            "1)": "przepisuje pojedyncze wyrazy i zwroty;",
+            "2)": "pisze proste i krótkie zdania według wcześniej poznanych schematów;",
+            "3)": "pisze, stosując w tekstach elementarne zasady ortografii kaszubskiej i interpunkcji."
+        },
+        "6.": {
+            "nazwa": "Osiągnięcia w zakresie reagowania na wypowiedzi. Uczeń:",
+            "1)": "reaguje werbalnie i niewerbalnie na polecenia;",
+            "2)": "przedstawia siebie i inne osoby – mówi np. jak się nazywa, ile ma lat, skąd pochodzi;",
+            "3)": "zadaje pytania i udziela odpowiedzi w ramach wyuczonych zwrotów;",
+            "4)": "stosuje podstawowe zwroty grzecznościowe typowe dla kultury kaszubskiej (np. wita się i żegna, dziękuje, prosi, przeprasza)."
+        },
+        "7.": {
+            "nazwa": "Osiągnięcia w zakresie przetwarzania wypowiedzi. Uczeń:",
+            "1)": "nazywa w języku kaszubskim przedstawione w materiałach wizualnych i audiowizualnych obiekty (np. osoby, zwierzęta, przedmioty) i czynności;",
+            "2)": "podaje w języku polskim znaczenie prostych słów lub zwrotów sformułowanych w języku kaszubskim;",
+            "3)": "podaje w języku kaszubskim znaczenie prostych słów lub zwrotów sformułowanych w języku polskim;",
+            "4)": "przekazuje w języku polskim ogólny sens tekstu słuchanego w języku kaszubskim.",
+            "5)": "Znajomość i rozumienie bardzo prostych elementów otaczającego świata przyrodniczo-geograficznego, bardzo prostych treści kultury materialnej, duchowej i tradycji kaszubskiej oraz umiejętność funkcjonowania we wspólnocie kaszubskiej (nabywane w czasie lekcji, wycieczek w środowisko lokalne i regionalne oraz warsztatów i projektów edukacyjnych). Uczeń posiada podstawowe informacje w zakresie następujących treści kształcenia:",
+            "6)": "perspektywa świata: moja miejscowość, moja gmina i mój powiat na Kaszubach, mój region (geografia i przyroda regionu);",
+            "7)": "przestrzeń regionu: architektura lokalna i obiekty zabytkowe typowe dla kultury lokalnej;",
+            "8)": "geografia literacka: moja wieś, miasto, gmina, powiat w legendach i innych tekstach literackich;",
+            "9)": "symbole Kaszub: godło;",
+            "10)": "stworzenie świata i świat ludzi w kaszubskojęzycznej biblii dla dzieci i legendach;",
+            "11)": "rok obrzędowy na Kaszubach: Gòdë, Jastrë, obchodzenie świąt w mojej rodzinie;",
+            "12)": "obrzędowość rodzinna: ślub, wesele, narodziny, urodziny; tradycja chleba;",
+            "13)": "wartości w kaszubskich bajkach: mądrość, przyjaźń;",
+            "14)": "kaszubskie gry i zabawy dziecięce;",
+            "15)": "skarby Kaszub w bajkach (np. bursztyn);",
+            "16)": "morze i ziemia w legendach i przysłowiach;",
+            "17)": "praca związana z morzem i z uprawą ziemi;",
+            "18)": "sztuka ludowa i rzemiosło użytkowe: zabawki ludowe, tradycyjne malarstwo na szkle, tkactwo na ramkach, kwiaty papierowe, rzeźba w glinie;",
+            "19)": "haft kaszubski (kolorystyka, wzornictwo na odzież);",
+            "20)": "edukacja międzykulturowa: różnice między polskimi a kaszubskimi tradycjami Bożego Narodzenia, dialog międzywyznaniowy (świątynie chrześcijańskie na Pomorzu, Boże Narodzenie w tradycjach chrześcijańskich);",
+            "21)": "kuchnia i tradycyjne przetwórstwo kaszubskie;",
+            "22)": "wycieczki edukacyjne w miejsca lokalne i do muzeów lokalnych;",
+            "23)": "warsztaty i projekty edukacyjne, spotkania z ciekawymi ludźmi."
+        },
+        "8.": {
+            "nazwa": "Lektury:",
+            "1)": "Jan Brzechwa, Brzechwa dzecoma (tłum. na kaszubski: T. Fopke);",
+            "2)": "Tomasz Fopke, wybór wierszy i piosenek;",
+            "3)": "Stanisław Janke, Krôjczi pôjczi, wybrane utwory;",
+            "4)": "Stanisław Janke, Żużónka jak mrzónka. Kołysanka z marzeń, wybrane utwory;",
+            "5)": "Janusz Mamelski, Żëcé dzecy. Życie dzieci. Kaszubskie wierszyki dla dzieci, wybrane utwory;",
+            "6)": "Alojzy Nagel, Bajki i bajeczki. Bôjczi i bôjeczci;",
+            "7)": "Alojzy Nagel, wybór opowiadań;",
+            "8)": "Jan Piepka, Moja kotka, mój kot, wybrane utwory;",
+            "9)": "Jerzy Samp, Zaklęta stegna. Bajki kaszubskie, wybrane utwory;",
+            "10)": "Jan Trepczyk, Ukłôdk dlô dzôtk, wybrane utwory;",
+            "11)": "Ewa Warmowska, wybór wierszy i opowiadań;",
+            "12)": "Marzena Dembek, Mój słowôrz;",
+            "13)": "Inne legendy, bajki i podania ludowe lub autorskie (np. z: Janusz Mamelski Legendy kaszubskie. Kaszëbsczé legeńdë);",
+            "14)": "Utwory literackie podkreślające identyfikację wspólnotową (np. B. Sychta, Kaszëba béł mój tatk, A. Labuda, Chto..., J. Trepczyk, Stark, E. Warmowska, Môłi ricérz);",
+            "15)": "E. i P. Marczakowie, Pomorskie ABC przestrzeni. Ilustrowany słownik dla dzieci, wybrane hasła."
+        }
+    },
+    "XIII.": {
+        "nazwa": "Etyka.",
+        "1.": {
+            "nazwa": "Osiągnięcia w zakresie rozumienia podstawowych zasad i pojęć etyki. Uczeń:",
+            "1)": "ma świadomość, że jako człowiek posiada swoją niezbywalną godność oraz że wszystkie inne osoby posiadają taką godność;",
+            "2)": "odkrywa wolność jako wartość przypisaną osobie, także osobie w jego wieku;",
+            "3)": "dostrzega, że granice jego wolności wytycza godność i dobro innych osób, np. z kręgu rodziny, klasy, rówieśników;",
+            "4)": "odkrywa, że jego wybór rodzi konsekwencje, które dotyczą jego samego;",
+            "5)": "dostrzega, że każdy powinien brać odpowiedzialność za swoje wybory;",
+            "6)": "dostrzega, że lepiej poznaje siebie, bardziej się rozwija i czerpie szczęście w relacji z innymi osobami niż w samotności;",
+            "7)": "odkrywa, że współtworzy różne wspólnoty osób, np. rodzinę, klasę, państwo;",
+            "8)": "ma świadomość, że każdej osobie ludzkiej, także jemu, należy się szacunek, że szacunkiem należy obdarzać także wspólnoty osób – rodzinę, klasę, naród (ojczyznę), w tym wspólnotę religijną – a także symbole tych wspólnot;",
+            "9)": "określa, co jest dobre, a co jest złe, w otaczającym go świecie i w świecie poznawanych tekstów oraz podaje uzasadnienie swojego zdania;",
+            "10)": "odróżnia szczęście od doraźnie odczuwanej przyjemności i poznaje, że dobro jest źródłem szczęścia własnego oraz innych osób;",
+            "11)": "odkrywa, że wspólnota osób której jest członkiem, ustanawia swoje zasady (normy) i oczekuje ich respektowania."
+        },
+        "2.": {
+            "nazwa": "Osiągnięcia w zakresie stosowania poznanych zasad. Uczeń:",
+            "1)": "szanuje godność każdej osoby ludzkiej oraz swoją, wyraża swoim komunikatem werbalnym i niewerbalnym;",
+            "2)": "uwzględnia coraz częściej godność i dobro innych osób, podejmując decyzję o działaniu;",
+            "3)": "wyraża szacunek wobec osób, wspólnot osób oraz ich symboli w sytuacjach codziennych i uroczystych, przejawiając właściwe zachowanie;",
+            "4)": "wchodzi w relacje z innymi osobami (rówieśnikami, nauczycielami), szanując to, co jest wartością dla nich i nazywając to, co jest wartością dla niego;",
+            "5)": "naśladuje i przyjmuje jako własne zachowania dobre na podstawie doświadczeń ze świata realnego oraz przykładów płynących z tekstów literackich, filmów i innych źródeł;",
+            "6)": "przestrzega zasad obowiązujących we wspólnocie osób, której jest członkiem.",
+            "7)": ""
+        }
+    }
+}
