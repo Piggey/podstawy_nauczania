@@ -2,6 +2,7 @@ from docx import Document
 from json import load
 from docx.shared import Pt
 from os import startfile
+from sys import platform
 
 # get the input
 ## Sample input:
@@ -95,7 +96,8 @@ def createDocument(data, lines):
 
     filename = 'podstawy_programowe.docx'
     d.save(filename)
-    startfile(filename)
+    if(platform == 'win32'):
+        startfile(filename)
     
 # load json file
 with open('podstawy_programowe.json') as f:
