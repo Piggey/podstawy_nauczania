@@ -18,6 +18,9 @@ def getLines():
     print('Wklej indeksy rozdzialow tutaj: ')
     while True:
         line = input()
+        if(',' in line):
+            print("UWAGA: Wykryto ',' w podanym tekscie. Wprowadz wszystkie linie ponownie: ")
+            lines = []
         if(line):
             lines.append(line)
         else:
@@ -105,7 +108,7 @@ def createDocument(data, lines):
     
 # load json file
 with open('podstawy_programowe.json') as f:
-    data = load(f)
+    data = load(f, encoding='utf-8')
 
 lines = getLines()
 createDocument(data, lines)
