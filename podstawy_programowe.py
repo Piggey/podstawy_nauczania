@@ -84,14 +84,14 @@ def createDocument(data, lines):
         edu = call['edu']
         if(last_edu != edu):
             p = d.add_paragraph()
-            text = edu + ' ' + data[edu]['nazwa']
+            text = '\n' + edu + ' ' + data[edu]['nazwa']
             p.add_run(text).bold = True
 
         # create zakres section
         zakres = call['zakres']
         if(last_zakres != zakres):
             p = d.add_paragraph() 
-            text = zakres + ' ' + data[edu][zakres]['nazwa']
+            text = '\n' + zakres + ' ' + data[edu][zakres]['nazwa']
             p.add_run(text).underline = True
 
         # create osiagniecie section
