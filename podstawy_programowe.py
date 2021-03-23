@@ -1,6 +1,6 @@
 from docx import Document
-from json import load
 from docx.shared import Pt
+from json import load
 from sys import platform
 try:
     from os import startfile
@@ -14,17 +14,21 @@ except ImportError as e:
 # II. 4. 2), 6. 8) 9)
 # III. 1. 1) 3) 4)
 def getLines():
+    lastLine = 'line'
     lines = []
     print('Wklej indeksy rozdzialow tutaj: ')
     while True:
         line = input()
-        if(',' in line):
-            print("UWAGA: Wykryto ',' w podanym tekscie. Wprowadz wszystkie linie ponownie: ")
-            lines = []
-        if(line):
-            lines.append(line)
-        else:
+        line = line.replace(',', '') # ignore ','
+
+        print(line)
+        # whitespace buffer, not to sure about this
+        if(not lastLine and not line):
             break
+        else:
+            lines.append(line)
+
+        lastLine = line
 
     return lines
 
@@ -103,12 +107,15 @@ def createDocument(data, lines):
 
     filename = 'podstawy_programowe.docx'
     d.save(filename)
-    if(platform == 'win32'):
-        startfile(filename)
-    
+    try:
+        if(platform == 'win32'):
+            startfile(filename)
+    except PermissionError:
+        print("Poprzedni plik jest nadal otwarty! Zamknij go przed uzyciem skryptu.")
+
 # load json file
-with open('podstawy_programowe.json') as f:
-    data = load(f, encoding='utf-8')
+with open('podstawy_programowe.json', encoding='utf-8') as f:
+    data = load(f)
 
 lines = getLines()
 createDocument(data, lines)
