@@ -21,7 +21,6 @@ def getLines():
         line = input()
         line = line.replace(',', '') # ignore ','
 
-        print(line)
         # whitespace buffer, not to sure about this
         if(not lastLine and not line):
             break
@@ -77,7 +76,6 @@ def createDocument(data, lines):
     for line in lines:
         p = d.add_paragraph(line)
 
-    p.add_run('\n') # newline
     font.size = Pt(12)
     last_edu = ''
     last_zakres = ''
@@ -85,22 +83,22 @@ def createDocument(data, lines):
         # create edu section
         edu = call['edu']
         if(last_edu != edu):
-            p.add_run('\n')
-            text = edu + ' ' + data[edu]['nazwa'] + '\n'
+            p = d.add_paragraph()
+            text = edu + ' ' + data[edu]['nazwa']
             p.add_run(text).bold = True
 
         # create zakres section
         zakres = call['zakres']
         if(last_zakres != zakres):
-            p.add_run('\n')
-            text = zakres + ' ' + data[edu][zakres]['nazwa'] + '\n'
+            p = d.add_paragraph() 
+            text = zakres + ' ' + data[edu][zakres]['nazwa']
             p.add_run(text).underline = True
 
         # create osiagniecie section
         osiagniecie = call['osiagniecie']
-        text = osiagniecie + ' ' + data[edu][zakres][osiagniecie] + '\n'
+        text = osiagniecie + ' ' + data[edu][zakres][osiagniecie]
         # d.add_paragraph(text)
-        p.add_run(text)
+        d.add_paragraph(text)
 
         last_edu = edu
         last_zakres = zakres
