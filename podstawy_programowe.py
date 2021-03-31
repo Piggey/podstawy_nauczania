@@ -18,10 +18,9 @@ def getLines():
     print('Wklej indeksy rozdzialow tutaj: ')
     while True:
         line = input()
-        line = line.replace(',', '') # ignore ',' character
-
-        # whitespace buffer, not so sure about this
-        ## works aight :>
+        line = line.replace(', ', ' ').replace(',', ' ') # ignore ',' character and add whitespace in case of input "1),2)"
+        
+        # whitespace buffer due to MS Word acting weird when copying 
         if(not lastLine and not line):
             break
         else:
@@ -81,23 +80,36 @@ def createDocument(data, lines):
     last_edu = ''
     last_zakres = ''
     for call in calls:
+        
         # create edu section
         edu = call['edu']
         if(last_edu != edu):
             p = d.add_paragraph()
-            text = '\n' + edu + ' ' + data[edu]['nazwa']
+            try: # key error handlers because i dont like when it just quits on me
+                text = '\n' + edu + ' ' + data[edu]['nazwa']
+            except KeyError as e:
+                endProg(e)
+
             p.add_run(text).bold = True
 
         # create zakres section
         zakres = call['zakres']
         if(last_zakres != zakres):
             p = d.add_paragraph() 
-            text = '\n' + zakres + ' ' + data[edu][zakres]['nazwa']
+            try:
+                text = '\n' + zakres + ' ' + data[edu][zakres]['nazwa']
+            except KeyError as e:
+                endProg(e)
+
             p.add_run(text).underline = True
 
         # create osiagniecie section
         osiagniecie = call['osiagniecie']
-        text = osiagniecie + ' ' + data[edu][zakres][osiagniecie]
+        try:
+            text = osiagniecie + ' ' + data[edu][zakres][osiagniecie]
+        except KeyError as e:
+            endProg(e)
+
         # d.add_paragraph(text)
         d.add_paragraph(text)
 
@@ -111,6 +123,12 @@ def createDocument(data, lines):
             startfile(filename)
     except PermissionError:
         print("Poprzedni plik jest nadal otwarty! Zamknij go przed uzyciem skryptu.")
+
+def endProg(e):
+    print('UWAGA: wykryto bledny rozdzial w podanym tekscie: ' + str(e))
+    print('--------')
+    input("Nacisnij ENTER, aby zakonczyc...")
+    quit(1)
 
 # -- main -- #
 
