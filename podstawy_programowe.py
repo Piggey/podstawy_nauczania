@@ -79,6 +79,7 @@ def createDocument(data, lines):
     font.size = Pt(12)
     last_edu = ''
     last_zakres = ''
+    skipped = []
     for call in calls:
         
         # create edu section
@@ -88,7 +89,8 @@ def createDocument(data, lines):
             try: # key error handlers because i dont like when it just quits on me
                 text = '\n' + edu + ' ' + data[edu]['nazwa']
             except KeyError as e:
-                endProg(e)
+                skipUnrecognized(e)
+                skipped.append(str(e))
 
             p.add_run(text).bold = True
 
@@ -99,7 +101,8 @@ def createDocument(data, lines):
             try:
                 text = '\n' + zakres + ' ' + data[edu][zakres]['nazwa']
             except KeyError as e:
-                endProg(e)
+                skipUnrecognized(e)
+                skipped.append(str(e))
 
             p.add_run(text).underline = True
 
@@ -108,13 +111,20 @@ def createDocument(data, lines):
         try:
             text = osiagniecie + ' ' + data[edu][zakres][osiagniecie]
         except KeyError as e:
-            endProg(e)
+            skipUnrecognized(e)
+            skipped.append(str(e))
 
         # d.add_paragraph(text)
         d.add_paragraph(text)
 
         last_edu = edu
         last_zakres = zakres
+
+    # add "Skipped" fragment if any part of input was skipped 
+    if(len(skipped) > 0):
+        p = d.add_paragraph()
+        p.add_run("\nUWAGA: pominiete fragmenty: ").bold = True
+        p.add_run(skipped)
 
     filename = 'podstawy_programowe.docx'
     d.save(filename)
@@ -125,10 +135,21 @@ def createDocument(data, lines):
         print("Poprzedni plik jest nadal otwarty! Zamknij go przed uzyciem skryptu.")
 
 def endProg(e):
-    print('UWAGA: wykryto bledny rozdzial w podanym tekscie: ' + str(e))
     print('--------')
     input("Nacisnij ENTER, aby zakonczyc...")
-    quit(1)
+    quit(0)
+
+def skipUnrecognized(e):
+    print('UWAGA: wykryto bledny rozdzial w podanym tekscie: ' + str(e))
+    inp = input('Czy chcesz pominac ten fragment? [t/N] ')
+    if(inp.lower() == 't'):
+        pass
+    
+    elif(inp.lower() == 'n' or len(inp) == 0):
+        endProg(e)
+
+    # else:
+    #     skipUnrecognized(e)
 
 # -- main -- #
 
